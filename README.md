@@ -10,7 +10,7 @@ A Python-based application that automatically organizes files into folders based
 - 🗂️ Moves duplicate files into a separate folder
 - 💻 Simple Streamlit user interface
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used.
 
 - Python
 - Streamlit
