@@ -22,8 +22,8 @@ A Python-based application that automatically organizes files into folders based
 
 ```
 File-Organizer-Duplicate-Cleaner/
-│── app.py
-│── engine.py
+│── app.py → UI (Streamlit)
+│── engine.py → logic (file organize + duplicate detect)
 ```
 
 ## ▶️ How to Run
